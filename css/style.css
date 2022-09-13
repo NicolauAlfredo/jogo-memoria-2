@@ -104,9 +104,9 @@ body{
   box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 }
 .details p{
-  font-size: 18px;
+  font-size: 16px;
   height: 17px;
-  padding-right: 18px;
+  padding-right: 16px; 
   border-right: 1px solid #ccc;
 }
 .details p span{
@@ -158,7 +158,7 @@ body{
   }
   .details p{
     height: 15px;
-    font-size: 17px;
+    font-size: 14px;
     padding-right: 13px;
   }
   .details button{
@@ -166,6 +166,6 @@ body{
     padding: 5px 10px;
     border: none;
     color: #fff;
-    background: #6563ff;
+    background: #292936;
   }
 }
